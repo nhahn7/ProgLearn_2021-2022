@@ -73,6 +73,8 @@
   - [notebook](https://nbviewer.org/github/nhahn7/ProgLearn_2021-2022/blob/main/Nick-Hahn/NDD_II/Week_11/streaming_synf_experiments.ipynb)
 - Week 12: Fixed `ValueError` and `IndexError` when updating transformers
   - [updated proglearn code](https://github.com/neurodata/ProgLearn/pull/537/commits/36bc5aefba819d27fd1ac5e31e89c2724c85220b)
+ - Week 13: 
+    - [SDF/SynF Visualize Posteriors](https://nbviewer.org/github/nhahn7/ProgLearn_2021-2022/blob/main/Nick-Hahn/NDD_II/Week_13/visualize_posteriors.ipynb)
 
 
 
