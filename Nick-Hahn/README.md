@@ -75,6 +75,7 @@
   - [updated proglearn code](https://github.com/neurodata/ProgLearn/pull/537/commits/36bc5aefba819d27fd1ac5e31e89c2724c85220b)
  - Week 13: 
     - [SDF/SynF Visualize Posteriors](https://nbviewer.org/github/nhahn7/ProgLearn_2021-2022/blob/main/Nick-Hahn/NDD_II/Week_13/visualize_posteriors.ipynb)
+    - [BME Design Day Poster: Streaming Synergistic Forests](https://github.com/nhahn7/ProgLearn_2021-2022/blob/main/Nick-Hahn/NDD_II/Week_13/stream_synf_bme_design_day_poster.pdf)
 
 
 
